@@ -17,19 +17,19 @@ int main() {
     scanf(" %c", &operator);  // Space before %c to consume any leftover newline character
 
     switch (operator) {
-        case '+':
+        case '+': //addition
             result = num1 + num2; 
             break;
-        case '-':
+        case '-':  //subtraction
             result = num1 - num2;
             break;
-        case '*':
+        case '*':  //multiplication
             result = num1 * num2;
             break;
-        case'^':
+        case'^':  //power
             result = pow(num1,num2);
             break;
-        case '/':
+        case '/':  //division
             if (num2 != 0) {
                 result = num1 / num2;
             } else {
