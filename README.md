@@ -19,6 +19,7 @@ This program is a basic command-line calculator written in C. It allows the user
    gcc -o calculator calculator.c -lm
 
 2. Run the executable:
+   ```bash
    ./calculator
 
 3. Follow the prompts to enter two numbers and select an operation.
