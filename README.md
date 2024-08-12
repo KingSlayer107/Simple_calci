@@ -1,4 +1,3 @@
-# Simple_calci
 # Simple C Calculator
 
 ## Overview
