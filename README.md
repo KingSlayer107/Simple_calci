@@ -23,6 +23,7 @@ This program is a basic command-line calculator written in C. It allows the user
    ./calculator
 
 3. Follow the prompts to enter two numbers and select an operation.
+   ```bash
     If using power function then 2nd num is the power
     Enter the first number: 2
     Enter the second number: 3
